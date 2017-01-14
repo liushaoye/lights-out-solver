@@ -1,0 +1,5 @@
+/build/
+/build.xml
+/manifest.mf
+/nbproject
+/src/com/mollin/lightsoutsolver/core/solver/__Main__.java
